@@ -1,9 +1,7 @@
-# LC Valley Lead Recovery Demo
+# Lead Desk
 
-Phone demo for a walk-in sales pitch to plumbers, HVAC shops, and electricians.
+Sellable v1 for plumbing, HVAC, and electrical shops.
 
-A customer request is qualified with fixed questions. The owner gets a lead ticket. The demo does not quote prices, promise appointment times, or upload leads.
+A shop gets a customer link, a missed-call link, and an owner desk. Tickets go out by text or email from the phone. No app install. Price on the page is $249 per shop per month.
 
 Live: https://mraffordableai.github.io/lead-recovery/
-
-Cost to run the demo: $0. Leads stay in the phone browser until cleared.
